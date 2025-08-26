@@ -1,0 +1,3 @@
+ENTORNO=producción
+DEBUG=false
+BASE_URL=
